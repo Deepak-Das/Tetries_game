@@ -1,0 +1,21 @@
+#score{
+    -fx-font-size: 30;
+    -fx-font-weight: 700;
+    -fx-text-fill: forestgreen;
+}
+
+#line{
+    -fx-font-size: 30;
+    -fx-font-weight: 700;
+    -fx-text-fill: darkred;
+}
+
+#count{
+    -fx-font-weight: 400;
+    -fx-font-size: 24;
+}
+
+#gameover{
+    -fx-font-size: 40;
+    -fx-text-fill: red;
+}
